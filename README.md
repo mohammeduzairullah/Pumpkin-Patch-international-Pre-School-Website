@@ -6,12 +6,27 @@ An energetic, modern, and highly interactive web platform built specifically for
 The project is optimized, built for production, and live at:
 👉 **[Insert Your Live Deployment URL Here]**
 
+**Project-plan(ROAM, Schedule, Budjet, Communication Plan, RACI):** https://docs.google.com/spreadsheets/d/1PXGR3cGuAkh-RyDzeF2qGDkXcquBLpHZ/edit?usp=drive_link&ouid=108944724772081280197&rtpof=true&sd=true
+
+**Information:** https://docs.google.com/document/d/1dfFxQAjqhaVwKDmsSGJE3FniW9THU3ml/edit?usp=drive_link&ouid=108944724772081280197&rtpof=true&sd=true
+
+**Assets:**  https://drive.google.com/drive/folders/1eHTqsRrMRoGZtaYAxk8bXJ6R2XKp00Ag?usp=drive_link
+
+**Project Charter:** https://docs.google.com/document/d/1lqRjsPjerVcS4dHa4dP7N5XaVH63FmJd/edit?usp=drive_link&ouid=108944724772081280197&rtpof=true&sd=true
+
+**Project scope:** https://docs.google.com/document/d/1VT5ODtHyp0soWF34nXh9jh_9A_Jdl1OB/edit?usp=drive_link&ouid=108944724772081280197&rtpof=true&sd=true
+
+**Statement of work:** https://docs.google.com/document/d/1JrU4O7Wxze_fXqsa6RZs_Eu7O9d4wxWB/edit?usp=drive_link&ouid=108944724772081280197&rtpof=true&sd=true
+
+**Success-Criteria:** https://docs.google.com/document/d/1W4Z6qnGgkeAH7ae3p-PHixhvR7-jSo-y/edit?usp=drive_link&ouid=108944724772081280197&rtpof=true&sd=true
+
 ---
 
 ## 🎭 Project Management & Roles
 This entire ecosystem was engineered, structured, and executed by a **solo specialist** managing two vital cross-functional project lifecycle roles:
 
 *   **Mohammed Uzairullah (Project Manager):** Executed initial client scope analysis, color psychology mapping, layout wireframing, content curation, and deployment strategy.
+
 *   **Mohammed Uzairullah (Lead Frontend Developer):** Responsible for translating approved UI designs into clean, responsive, production-ready frontend code, asset pipeline optimization, and final web deployment.
 
 ### 📐 The Waterfall Development Approach
